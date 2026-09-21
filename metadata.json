@@ -1,0 +1,6 @@
+{
+  "name": "SmartSales",
+  "description": "Sales and inventory analytics app for small businesses with real-time tracking, role-based workflows, and executive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
